@@ -15,5 +15,5 @@ I'm a computer science student at the University of Minnesota and minoring in St
 ## 🚀 Current Projects
 - **AI Flashcard App:** An innovative tool to enhance learning by leveraging AI to generate personalized flashcards.
 
-## 💡 Fun Fact
-I'm a visual and hands-on learner, which drives my passion for creating tools that make complex topics more accessible and engaging for others.
+## 😎 Hobbies
+- **Basketball, Video games, Outdoor activities**
